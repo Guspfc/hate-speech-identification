@@ -1,1 +1,1 @@
-# hate_speech_identification
+# hate-speech-identification
